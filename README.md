@@ -1,1 +1,2 @@
 # ipython_notebook_animations
+IPython上でmatplotlibとmatplotlib.animation.FuncAnimationを利用して、IPython内やMP4、GIF等に描画するコードです。
